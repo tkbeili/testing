@@ -6,7 +6,6 @@ class Cookie
 
   def put_in_oven
     2 + 2
-    1 + 1
   end
 
   def calorie_count(amount_of_flour, number_of_chips = 20)
